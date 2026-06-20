@@ -36,7 +36,7 @@
 // }
 //     console.log("the number series are",num)
 //     num++
-// }
+}
 
 //do while
 // let num=1
